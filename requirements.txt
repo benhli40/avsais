@@ -1,0 +1,20 @@
+# Dependencies
+tkinter
+psutil
+speechrecognition
+pyttsx3
+requests
+beautifulsoup4
+python-dotenv
+sqlite3
+nltk
+fuzzywuzzy
+python-Levenshtein
+pynput
+simpleaudio
+pygame
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+spotipy

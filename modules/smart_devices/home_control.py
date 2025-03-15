@@ -1,0 +1,1 @@
+# Manages smart home devices
